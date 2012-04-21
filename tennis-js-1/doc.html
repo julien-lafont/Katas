@@ -1,0 +1,65 @@
+    <section class="suite">
+      <h1>Kata Tennis</h1>
+      <dl>
+        <dt>A game is played with two players</dt>
+        <dd><pre><code>
+		var game = tennis.game(&quot;Julien&quot;, &quot;Marc&quot;);
+		(game.players[0].name).should.equal(&quot;Julien&quot;);
+		(game.players[1].name).should.equal(&quot;Marc&quot;);</code></pre></dd>
+        <dt>A the start of the game every player has 0 point</dt>
+        <dd><pre><code>
+		newTestGame().forEachPlayer(function(player) {
+			(player.score).should.equal(0);
+		})</code></pre></dd>
+        <dt>When a player won a point, his score is 15</dt>
+        <dd><pre><code>
+		var game = newTestGame();
+		game.playerWin(0);
+		(game.players[0].score).should.equal(15);</code></pre></dd>
+        <dt>When a player won 4 times, he win the match</dt>
+        <dd><pre><code>
+		var game = newTestGame();
+		for (var i in fourTimes) game.playerWin(0);
+		(game.winner).should.equal(0);</code></pre></dd>
+        <dt>When a player won 3 times and the opposent 4 times, there is no Winner and score are 40/40</dt>
+        <dd><pre><code>
+		var game = initDeuceGame();
+		(game.winner).should.not.be.ok;
+		game.forEachPlayer(function(player) { (player.score).should.equal(40); });</code></pre></dd>
+        <dt>.. And the second player has the Advantage</dt>
+        <dd><pre><code>
+		var game = initDeuceGame();
+		(game.players[1].advantage).should.be.true;
+		(game.players[0].advantage).should.be.false;</code></pre></dd>
+        <dt>If the player who has the advantage won a new point, he is the Winner</dt>
+        <dd><pre><code>
+		var game = initDeuceGame();
+		game.playerWin(1);
+		(game.winner).should.equal(1);</code></pre></dd>
+        <dt>If a player who have the advatange lost the point, he lost his advatange</dt>
+        <dd><pre><code>
+		var game = initDeuceGame();
+		game.playerWin(0);
+		(game.players[1].advantage).should.be.false;</code></pre></dd>
+        <dt>If a player who have the advantage lost the point, his opponent doesn't have the advantage</dt>
+        <dd><pre><code>
+		var game = initDeuceGame();
+		game.playerWin(0);
+		(game.players[0].advantage).should.be.false;
+		(game.winner).should.not.be.ok;</code></pre></dd>
+        <dt>There is a winner after many deuce situations</dt>
+        <dd><pre><code>
+		var game = initDeuceGame();
+		game.playerWin(0);
+		game.playerWin(1);
+		game.playerWin(1);
+		(game.winner).should.equal(1);</code></pre></dd>
+        <dt>It's not possible to win a point whe the match is ended</dt>
+        <dd><pre><code>
+		var game = initDeuceGame();
+		game.playerWin(1);
+		(function(){
+		  game.playerWin(1);
+		}).should.throw(&quot;game ended&quot;);</code></pre></dd>
+      </dl>
+    </section>
