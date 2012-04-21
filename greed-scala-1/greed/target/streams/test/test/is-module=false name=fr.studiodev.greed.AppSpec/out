@@ -1,0 +1,16 @@
+[0m[[0minfo[0m] [0mAppSpec[0m
+[0m[[0minfo[0m] [0m[0m
+[0m[[0minfo[0m] [0mThe greed calculator should[0m
+[0m[[0minfo[0m] [0m[32m+[0m throw an error if there is less than 5 dices[0m
+[0m[[0minfo[0m] [0m[32m+[0m return a positive score[0m
+[0m[[0minfo[0m] [0m[32m+[0m add 1000 points for a triple 1[0m
+[0m[[0minfo[0m] [0m[32m+[0m add X*100 points for a triple X[0m
+[0m[[0minfo[0m] [0m[32m+[0m add 100 points for each additionally 1 which is not a triple 1[0m
+[0m[[0minfo[0m] [0m[32m+[0m add 50 points for each additionally 5 which is not a triple 5[0m
+[0m[[0minfo[0m] [0m[32m+[0m work with all complexe cases[0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0m [0m
+[0m[[0minfo[0m] [0mTotal for specification AppSpec[0m
+[0m[[0minfo[0m] [0m[34mFinished in 1 second, 398 ms[0m[0m
+[0m[[0minfo[0m] [0m[34m7 examples, 0 failure, 0 error[0m[0m
+[0m[[0minfo[0m] [0m[0m

@@ -1,0 +1,234 @@
+<fr.studiodev.greed.AppSpec-stats timestamp="1335045674796"><stats expectations="3" examples="3" successes="3" time="261"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335045703837"><stats expectations="3" examples="3" successes="3" time="165"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335045979502"><stats expectations="1" examples="1" successes="1" time="52"><trend><stats expectations="-2" examples="-2" successes="-2" time="217"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046190452"><stats expectations="1" examples="1" successes="1" time="54"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335046582824"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:8)" id="416810935"><stats expectations="1" examples="1" failures="1" time="49"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046582834"><stats expectations="1" examples="1" failures="1" time="49"><trend><stats failures="1" successes="-1" time="103"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046627653"><stats expectations="1" examples="1" successes="1" time="48"><trend><stats failures="-1" successes="1" time="97"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046659316"><stats expectations="1" examples="1" successes="1" time="59"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335046847119"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:8)" id="416810935"><stats expectations="1" examples="1" failures="1" time="44"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046847136"><stats expectations="1" examples="1" failures="1" time="44"><trend><stats failures="1" successes="-1" time="103"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335046873075"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:8)" id="416810935"><stats expectations="1" examples="1" failures="1" time="48"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046873095"><stats expectations="1" examples="1" failures="1" time="48"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335046897213"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:8)" id="416810935"><stats expectations="1" examples="1" failures="1" time="50"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046897231"><stats expectations="1" examples="1" failures="1" time="50"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335046920898"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:8)" id="416810935"><stats expectations="1" examples="1" failures="1" time="48"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046920921"><stats expectations="1" examples="1" failures="1" time="48"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335046946752"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:8)" id="416810935"><stats expectations="1" examples="1" failures="1" time="56"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335046946777"><stats expectations="1" examples="1" failures="1" time="56"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335047485130"><stats expectations="1" examples="1" successes="1" time="54"><trend><stats failures="-1" successes="1" time="110"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335047815412"><stats expectations="2" examples="2" successes="2" time="139"><trend><stats expectations="1" examples="1" successes="1" time="193"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335047978985"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:20)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="74"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335047979004"><stats expectations="3" successes="2" examples="3" failures="1" time="177"><trend><stats expectations="1" examples="1" failures="1" time="316"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335048430065"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:20)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="79"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048430076"><stats expectations="3" successes="2" examples="3" failures="1" time="188"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335048452714"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:20)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="72"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048452723"><stats expectations="3" successes="2" examples="3" failures="1" time="200"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335048502499"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:20)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="83"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048502508"><stats expectations="3" successes="2" examples="3" failures="1" time="203"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048563643"><stats expectations="3" examples="3" successes="3" time="194"><trend><stats failures="-1" successes="1" time="397"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048578514"><stats expectations="3" examples="3" successes="3" time="171"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048721002"><stats expectations="3" examples="3" successes="3" time="207"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048743458"><stats expectations="3" examples="3" successes="3" time="175"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048755346"><stats expectations="3" examples="3" successes="3" time="238"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335048852151"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:16)" id="-970608582"><stats expectations="1" examples="1" errors="1" time="60"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048852160"><stats expectations="3" successes="2" examples="3" errors="1" time="179"><trend><stats errors="1" successes="-1" time="417"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335048870839"><stats expectations="3" examples="3" successes="3" time="155"><trend><stats errors="-1" successes="1" time="334"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335049239125"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:20)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="72"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049239135"><stats expectations="3" successes="2" examples="3" failures="1" time="176"><trend><stats failures="1" successes="-1" time="331"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335049308599"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:20)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="79"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049308608"><stats expectations="3" successes="2" examples="3" failures="1" time="191"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049348046"><stats expectations="3" examples="3" successes="3" time="199"><trend><stats failures="-1" successes="1" time="390"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049353042"><stats expectations="3" examples="3" successes="3" time="238"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049357188"><stats expectations="3" examples="3" successes="3" time="177"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049624433"><stats expectations="4" examples="4" successes="4" time="926"><trend><stats expectations="1" examples="1" successes="1" time="1103"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049700969"><stats expectations="4" examples="4" successes="4" time="255"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049720672"><stats expectations="4" examples="4" successes="4" time="1346"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049729208"><stats expectations="4" examples="4" successes="4" time="251"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049749325"><stats expectations="4" examples="4" successes="4" time="237"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049756337"><stats expectations="4" examples="4" successes="4" time="257"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335049759621"><stats expectations="4" examples="4" successes="4" time="1267"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050087275"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:23)" id="-74451057"><stats expectations="1" examples="1" errors="1" time="70"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:27)" id="-275379370"><stats expectations="1" examples="1" failures="1" time="39"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050087281"><stats expectations="5" errors="1" examples="5" successes="3" failures="1" time="267"><trend><stats expectations="1" errors="1" examples="1" successes="-1" failures="1" time="1534"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050153629"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:27)" id="-275379370"><stats expectations="1" examples="1" failures="1" time="43"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050153638"><stats expectations="5" successes="4" examples="5" failures="1" time="297"><trend><stats errors="-1" successes="1" time="564"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050178623"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:27)" id="-275379370"><stats expectations="1" examples="1" failures="1" time="49"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050178633"><stats expectations="5" successes="4" examples="5" failures="1" time="320"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050279488"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:27)" id="-275379370"><stats expectations="1" examples="1" failures="1" time="52"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050279494"><stats expectations="5" successes="4" examples="5" failures="1" time="303"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050326696"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:27)" id="-275379370"><stats expectations="1" examples="1" failures="1" time="53"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050326704"><stats expectations="5" successes="4" examples="5" failures="1" time="312"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050334802"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:27)" id="-275379370"><stats expectations="1" examples="1" failures="1" time="53"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050334810"><stats expectations="5" successes="4" examples="5" failures="1" time="1233"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050383650"><stats expectations="5" examples="5" successes="5" time="423"><trend><stats failures="-1" successes="1" time="1656"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050452352"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:34)" id="2024176866"><stats expectations="1" examples="1" failures="1" time="16"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050452361"><stats expectations="6" successes="5" examples="6" failures="1" time="392"><trend><stats expectations="1" examples="1" failures="1" time="815"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050463018"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:34)" id="87516133"><stats expectations="1" examples="1" failures="1" time="28"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050463025"><stats expectations="6" successes="5" examples="6" failures="1" time="372"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050467412"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:34)" id="87516136"><stats expectations="1" examples="1" failures="1" time="24"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050467422"><stats expectations="6" successes="5" examples="6" failures="1" time="331"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050489226"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:34)" id="87516136"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050489233"><stats expectations="6" successes="5" examples="6" failures="1" time="369"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050496530"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:34)" id="87516136"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050496537"><stats expectations="6" successes="5" examples="6" failures="1" time="348"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050505972"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:34)" id="87516136"><stats expectations="1" examples="1" failures="1" time="25"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050505980"><stats expectations="6" successes="5" examples="6" failures="1" time="344"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050509054"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:34)" id="87516136"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050509063"><stats expectations="6" successes="5" examples="6" failures="1" time="330"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050524064"><stats expectations="6" examples="6" successes="6" time="380"><trend><stats failures="-1" successes="1" time="710"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050652461"><stats expectations="7" examples="7" successes="7" time="427"><trend><stats expectations="1" examples="1" successes="1" time="807"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050672436"><stats expectations="7" examples="7" successes="7" time="365"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050675544"><stats expectations="7" examples="7" successes="7" time="364"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050761366"><stats expectations="7" examples="7" successes="7" time="397"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050903313"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="71"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="68"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="41"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="22"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050903321"><stats expectations="7" successes="2" examples="7" failures="5" time="303"><trend><stats failures="5" successes="-5" time="700"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335050979776"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="90"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="87"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="56"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050979784"><stats expectations="7" successes="2" examples="7" failures="5" time="375"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335050988351"><stats expectations="7" examples="7" successes="7" time="377"><trend><stats failures="-5" successes="5" time="752"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051020866"><stats expectations="7" examples="7" successes="7" time="361"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051025879"><stats expectations="7" examples="7" successes="7" time="364"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051174587"><stats expectations="7" examples="7" successes="7" time="400"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051240370"><stats expectations="7" examples="7" successes="7" time="415"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051305411"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="62"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="60"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="43"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="16"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="10"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051305420"><stats expectations="7" successes="2" examples="7" failures="5" time="297"><trend><stats failures="5" successes="-5" time="712"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051322235"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="73"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="77"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="46"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="8"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051322248"><stats expectations="7" successes="2" examples="7" failures="5" time="331"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051333249"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="72"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="68"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="40"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="21"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051333261"><stats expectations="7" successes="2" examples="7" failures="5" time="302"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051420769"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="59"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="77"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="50"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="25"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="9"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051420783"><stats expectations="7" successes="2" examples="7" failures="5" time="330"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051446437"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="71"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="69"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="41"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="22"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051446449"><stats expectations="7" successes="2" examples="7" failures="5" time="303"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051497932"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="74"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="72"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="39"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="21"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="5"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051497944"><stats expectations="7" successes="2" examples="7" failures="5" time="313"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051561856"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="74"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="63"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="41"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="17"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051561870"><stats expectations="7" successes="2" examples="7" failures="5" time="315"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051574291"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="77"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="73"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="46"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="25"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="7"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051574300"><stats expectations="7" successes="2" examples="7" failures="5" time="329"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051703197"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="79"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="87"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="82"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="50"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="3"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051703213"><stats expectations="7" successes="2" examples="7" failures="5" time="408"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051724645"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="98"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="94"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="58"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051724661"><stats expectations="7" successes="2" examples="7" failures="5" time="418"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051745258"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="76"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="79"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="50"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="6"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051745268"><stats expectations="7" successes="2" examples="7" failures="5" time="339"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051765709"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="77"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="81"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="41"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="13"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="11"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051765723"><stats expectations="7" successes="2" examples="7" failures="5" time="331"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-results timestamp="1335051805514"><result location="fr.studiodev.greed.AppSpec (AppSpec.scala:17)" id="-2075070400"><stats expectations="1" examples="1" failures="1" time="66"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:21)" id="-74451057"><stats expectations="1" examples="1" failures="1" time="68"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:25)" id="-1226950312"><stats expectations="1" examples="1" failures="1" time="61"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:32)" id="87516136"><stats expectations="1" examples="1" failures="1" time="27"></stats></result>
+<result location="fr.studiodev.greed.AppSpec (AppSpec.scala:39)" id="-1937146914"><stats expectations="1" examples="1" failures="1" time="19"></stats></result>
+</fr.studiodev.greed.AppSpec-results>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051805530"><stats expectations="7" successes="2" examples="7" failures="5" time="364"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051826151"><stats expectations="7" examples="7" successes="7" time="414"><trend><stats failures="-5" successes="5" time="778"></stats></trend></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051837944"><stats expectations="7" examples="7" successes="7" time="376"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051886108"><stats expectations="7" examples="7" successes="7" time="599"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051913668"><stats expectations="7" examples="7" successes="7" time="362"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051931007"><stats expectations="7" examples="7" successes="7" time="459"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051934496"><stats expectations="7" examples="7" successes="7" time="384"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335051965146"><stats expectations="7" examples="7" successes="7" time="411"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335052013422"><stats expectations="7" examples="7" successes="7" time="514"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335052052607"><stats expectations="7" examples="7" successes="7" time="446"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335052091938"><stats expectations="7" examples="7" successes="7" time="428"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335052141627"><stats expectations="7" examples="7" successes="7" time="1745"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335052191365"><stats expectations="7" examples="7" successes="7" time="416"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335052202715"><stats expectations="7" examples="7" successes="7" time="388"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335052210459"><stats expectations="7" examples="7" successes="7" time="392"></stats></fr.studiodev.greed.AppSpec-stats>
+<fr.studiodev.greed.AppSpec-stats timestamp="1335052231352"><stats expectations="7" examples="7" successes="7" time="1398"></stats></fr.studiodev.greed.AppSpec-stats>
