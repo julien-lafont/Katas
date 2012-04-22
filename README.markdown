@@ -1,3 +1,3 @@
-= Kata
+# My Katas
 
-My kata trainings
+A kata is a coding exercise that performed repeatedly and perfected
