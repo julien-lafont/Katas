@@ -18,10 +18,10 @@ object Roman {
 	
 		val (roman, _) = table.foldRight(("", num))((tuple, result) => {
 			val (algebric, roman) = tuple
-			val (acc, rest) 			= result
+			val (acc, rest)       = result
 			
-			val multiple 	= rest / algebric
-			val pattern = (for (i <- 1 to multiple) yield roman) mkString
+			val multiple = rest / algebric
+			val pattern  = (for (i <- 1 to multiple) yield roman) mkString
 			
 			(acc + pattern, rest % algebric)		
 		})
