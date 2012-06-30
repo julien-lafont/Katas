@@ -20,10 +20,9 @@ object Roman {
 			val (algebric, roman) = tuple
 			val (acc, remainder)  = result
 			
-			val multiple = remainder / algebric
-			val pattern  = (for (_ <- 1 to multiple) yield roman) mkString
+			val pattern = for (_ <- 1 to (remainder / algebric)) yield roman
 			
-			(acc + pattern, remainder % algebric)		
+			(acc + pattern.mkString, remainder % algebric)		
 		})
 
 		roman
