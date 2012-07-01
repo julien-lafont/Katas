@@ -14,7 +14,7 @@ object Roman {
 		1    -> "I")
 
 	// 2ème essai : boucle for simplifiée grâce à la fonction ’String.*(times)’
-	def apply2(num: Int) : String = {
+	def apply(num: Int) : String = {
 
 		val (roman, _) = table.foldRight(("", num))((tuple, result) => {
 			val (arabicNumber, romanNumber) = tuple
@@ -30,6 +30,6 @@ object Roman {
 	// ------------------
 
 	// Version One-Liner
-	def apply(n: Int) = table.:\(("", n))((e, r) => (r._1 + (e._2 * (r._2 / e._1)), r._2 % e._1 ))._1
+	def convert(n: Int) = table.:\(("", n))((e, r) => (r._1 + (e._2 * (r._2 / e._1)), r._2 % e._1 ))._1
 	
 }
