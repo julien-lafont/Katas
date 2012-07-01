@@ -13,12 +13,12 @@ object Roman {
 		(5    , "V"),  (4   , "IV"),
 		(1    , "I"))
 
-	def apply(num: Int) = convertWithFold(num)
+	def apply(num: Int) = convertWithRec(num)
 
 	// ------------------
 	// Première version à base de foldLeft
 	// ------------------
-	def convertWithFold(num: Int) : String = {
+	def convertWithFold(num: Int) = {
 
 		val (roman, _) = table.foldLeft(("", num))((result, tuple) => {
 			val (arabicNumber, romanNumber) = tuple
@@ -34,10 +34,10 @@ object Roman {
 	// ------------------
 	// Seconde version avec récursivité
 	// ------------------
-	def convertWithRec(num: Int) : String = {
+	def convertWithRec(num: Int) = {
 		def convert(value: Int, table: List[(Int,String)]) : String = table.headOption match {
 			case None => ""
-			case Some(tuple) => tuple._2 * (value / tuple._1) + convert(value % tuple._1, table.tail)
+			case Some((arabic, roman)) => roman * (value / arabic) + convert(value % arabic, table.tail)
 		}
 		convert(num, table)
 	}
