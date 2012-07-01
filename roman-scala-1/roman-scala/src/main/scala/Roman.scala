@@ -13,26 +13,8 @@ object Roman {
 		5    -> "V", 4   -> "IV",
 		1    -> "I")
 
-	// 1er essai : difficilement compréhensible, mais 100% immutable
-	def applyFirstTry(num: Integer) : String = {
-	
-		val (roman, _) = table.foldRight(("", num))((tuple, result) => {
-			val (algebric, roman) = tuple
-			val (acc, remainder)  = result
-			
-
-			val pattern = for (_ <- 1 to (remainder / algebric)) yield roman
-			
-			(acc + pattern.mkString, remainder % algebric)		
-		})
-
-		roman
-	}
-
-	// -----------------
-
 	// 2ème essai : boucle for simplifiée grâce à la fonction ’String.*(times)’
-	def apply(num: Integer) : String = {
+	def apply2(num: Int) : String = {
 
 		val (roman, _) = table.foldRight(("", num))((tuple, result) => {
 			val (arabicNumber, romanNumber) = tuple
@@ -46,5 +28,8 @@ object Roman {
 	}
 
 	// ------------------
+
+	// Version One-Liner
+	def apply(n: Int) = table.:\(("", n))((e, r) => (r._1 + (e._2 * (r._2 / e._1)), r._2 % e._1 ))._1
 	
 }
