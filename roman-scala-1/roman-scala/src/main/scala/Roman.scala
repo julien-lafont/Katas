@@ -1,7 +1,5 @@
 package fr.studiodev.roman
 
-import scala.collection.immutable._
-
 object Roman {
 
 	private val table = List(
